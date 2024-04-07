@@ -1,4 +1,4 @@
-![4](https://github.com/mivanivan/Assignment_GIT/assets/107350801/8eaa9a77-ced5-4a81-a615-fb211e1953d0)![3](https://github.com/mivanivan/Assignment_GIT/assets/107350801/942f458a-6537-427b-9011-a9f13d872e85)# Assignment_GIT - Geometry Volume Calculation
+# Assignment_GIT - Geometry Volume Calculation
 1. Add initial readme.md file
 2. git init
 3. git branch -M main
